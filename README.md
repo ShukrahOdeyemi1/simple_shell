@@ -5,8 +5,7 @@
 
 This repository is one of the many ALX-Software Engineering School Project. The project is aimed at teaching students how a shell works and its implementation in using C programming language. A limited number of standard library functions were used, instead most functions were implemented using knowledge acquired over the past three months.
 
-	> PHEEEW! it's been a rough one.. but it is interesting!!
-
+	> PHEEEW! it's been a rough one.. but it is interesting!
 The objective of this project in addittion to understanding and implementing our own shell programme, is to also give understanding of the working principles of the operating system, function call, system calls, applications running modes and privileges and to also increase our collaboration skills and etiquette.
 ---
 
@@ -20,16 +19,16 @@ In order to run this program,
 
 	3. compile it with
 
-		'''gcc 4.8.4 -Wall -Werror -Wextra -pedantic *.c -o (***your preffered executable name***) '''
+		> gcc 4.8.4 -Wall -Werror -Wextra -pedantic *.c -o (your preffered executable name)
 
-	4. You can then run it by invoking ./(***your preffered executable name***) in that same directory.
+	4. You can then run it by invoking ./(your preffered executable name) in that same directory.
 ---
 
 ## HOW TO USE IT
 
 After you have run your executable generated, a prompt with **$** will be displayed and the shell is ready to take your commands.
 
-	> $ ( *type your commands here* )
+	> $  _type your commands here_
 
 This shell can handle two kinds of commands: 
 	* builtins and 
@@ -45,7 +44,7 @@ Built in commands supported includes:
 	* variable replacement: echo $$, $? and $PATH Return pid, exit status of terminated program and PATH respectively.
 
 > IMPORTANT TO NOTE:
-> The shell will not close when user sends the interrupt signal (signint) with ~***control + C***~
+> The shell will not close when user sends the interrupt signal (signint) with ~***control + c***~ but with **control + d**
 
 > If no argument is given to cd the command must be interpreted like cd $HOME
 
@@ -115,6 +114,7 @@ Project Done in 15 Day
 ---
 
 # AUTHORS:
-**OLAMDIE WILLIAMS (github.com/circleofwilliams)[github.com/circleofwilliams] and
-SHUKRAH ODEYEMI (github.com/ShukrahOdeyemi1)[github.com/ShukrahOdeyemi1]**
+**OLAMIDE WILLIAMS [github.com/circleofwilliams] and
+
+SHUKRAH ODEYEMI [github.com/ShukrahOdeyemi1]**
 
