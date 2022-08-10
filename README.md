@@ -6,7 +6,8 @@
 This repository is one of the many ALX-Software Engineering School Project. The project is aimed at teaching students how a shell works and its implementation in using C programming language. A limited number of standard library functions were used, instead most functions were implemented using knowledge acquired over the past three months.
 
 	> PHEEEW! it's been a rough one.. but it is interesting!
-The objective of this project in addittion to understanding and implementing our own shell programme, is to also give understanding of the working principles of the operating system, function call, system calls, applications running modes and privileges and to also increase our collaboration skills and etiquette.
+
+## The objective of this project in addittion to understanding and implementing our own shell programme, is to also give understanding of the working principles of the operating system, function call, system calls, applications running modes and privileges and to also increase our collaboration skills and etiquette.
 ---
 
 ## USAGE
@@ -114,7 +115,7 @@ Project Done in 15 Day
 ---
 
 # AUTHORS:
-**OLAMIDE WILLIAMS [github.com/circleofwilliams] and
+OLAMIDE WILLIAMS [github.com/circleofwilliams] and
 
-SHUKRAH ODEYEMI [github.com/ShukrahOdeyemi1]**
+SHUKRAH ODEYEMI [github.com/ShukrahOdeyemi1]
 
