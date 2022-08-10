@@ -4,10 +4,9 @@
 ## INTRODUCTION:
 
 This repository is one of the many ALX-Software Engineering School Project. The project is aimed at teaching students how a shell works and its implementation in using C programming language. A limited number of standard library functions were used, instead most functions were implemented using knowledge acquired over the past three months.
+The objective of this project in addittion to understanding and implementing our own shell programme, is to also give understanding of the working principles of the operating system, function call, system calls, applications running modes and privileges and to also increase our collaboration skills and etiquette.
 
 	> PHEEEW! it's been a rough one.. but it is interesting!
-
-## The objective of this project in addittion to understanding and implementing our own shell programme, is to also give understanding of the working principles of the operating system, function call, system calls, applications running modes and privileges and to also increase our collaboration skills and etiquette.
 ---
 
 ## USAGE
@@ -20,7 +19,7 @@ In order to run this program,
 
 	3. compile it with
 
-		> gcc 4.8.4 -Wall -Werror -Wextra -pedantic *.c -o (your preffered executable name)
+		$ gcc 4.8.4 -Wall -Werror -Wextra -pedantic *.c -o (your preffered executable name)
 
 	4. You can then run it by invoking ./(your preffered executable name) in that same directory.
 ---
